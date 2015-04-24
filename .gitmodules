@@ -1,3 +1,3 @@
-[submodule "PlayMaker PathFinding"]
-	path = PlayMaker PathFinding
+[submodule "Assets/PlayMaker PathFinding"]
+	path = Assets/PlayMaker PathFinding
 	url = https://jeanfabre@github.com/jeanfabre/PlayMaker--Unity--PathFinding_U5-SubModule-.git
